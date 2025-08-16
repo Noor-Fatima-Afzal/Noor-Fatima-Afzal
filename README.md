@@ -18,11 +18,11 @@
 
 | Category | Skills |
 |----------|--------|
-| 🧑‍💻 Programming & Frameworks | Python (primary), MATLAB, C (basic), TensorFlow, PyTorch, Keras, TorchQuantum, IBM Qiskit, PennyLane, NEURON |
-| 📊 Data Analysis & Machine Learning | Classification, Regression, Predictive Modeling, Neural Networks, Optimization, Regularization, Feature Extraction, Preprocessing, Model Evaluation, Model Compression, EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis, Predictive Analytics, Statistical Modeling |
-| 📈 Mathematics & Statistics | Linear Algebra, Probability, Statistics, Optimization Algorithms, Regularization Methods, Mathematical Modeling, Quantitative Analysis |
-| 🧠 Domain-Specific Knowledge | Neuroimaging (EEG, fMRI, fNIRS), Signal Processing (EEG & Brain Rhythms), Neurodynamics Modeling, Brain Age Prediction, Quantum Mechanics (Superposition, Tunneling, Entanglement, Coherence), Wireless & 6G Systems (Quantum Networking), Neuroscience/Biophysics (Ion Channels) |
-| 📚 Research & Soft Skills | Scientific Writing, Technical Reports, Literature Review, Critical Analysis, Presentations, Collaboration, Time Management, Teamwork, Curiosity & Lifelong Learning |
+| Programming & Frameworks | Python (primary), MATLAB, C (basic), TensorFlow, PyTorch, Keras, TorchQuantum, IBM Qiskit, PennyLane, NEURON |
+| Data Analysis & Machine Learning | Classification, Regression, Predictive Modeling, Neural Networks, Optimization, Regularization, Feature Extraction, Preprocessing, Model Evaluation, Model Compression, EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis, Predictive Analytics, Statistical Modeling |
+| Mathematics & Statistics | Linear Algebra, Probability, Statistics, Optimization Algorithms, Regularization Methods, Mathematical Modeling, Quantitative Analysis |
+| Domain-Specific Knowledge | Neuroimaging (EEG, fMRI, fNIRS), Signal Processing (EEG & Brain Rhythms), Neurodynamics Modeling, Brain Age Prediction, Quantum Mechanics (Superposition, Tunneling, Entanglement, Coherence), Wireless & 6G Systems (Quantum Networking), Neuroscience/Biophysics (Ion Channels) |
+| Research & Soft Skills | Scientific Writing, Technical Reports, Literature Review, Critical Analysis, Presentations, Collaboration, Time Management, Teamwork, Curiosity & Lifelong Learning |
 
 
 ---
