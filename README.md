@@ -66,6 +66,20 @@
 
 ---
 
+### 📖 Blog Posts  
+
+#### 🧑‍💻 Artificial Intelligence  
+- [Transformer Encoder: A Closer Look at its Key Components](https://medium.com/@noorfatimaafzalbutt/transformer-encoder-a-closer-look-at-its-key-components-4eded419abd2?source=user_profile_page---------35-------------264d72ec03e6----------------------)  
+- [Transformer Decoder: A Closer Look at its Key Components](https://medium.com/@noorfatimaafzalbutt/transformer-encoder-a-closer-look-at-its-key-components-a1f5234601a3?source=user_profile_page---------34-------------264d72ec03e6----------------------)  
+- [Understanding LoRA (Low-Rank Adaptation) and Its Impact on Model Precision](https://medium.com/@noorfatimaafzalbutt/understanding-lora-low-rank-adaptation-and-its-impact-on-model-precision-7a4d5b616e34?source=user_profile_page---------22-------------264d72ec03e6----------------------)  
+- [Understanding QLoRA (Quantized Low-Rank Adaptation)](https://medium.com/@noorfatimaafzalbutt/understanding-qlora-quantized-low-rank-adaptation-4b262cb1b1ae?source=user_profile_page---------21-------------264d72ec03e6----------------------)  
+
+#### ⚛️ Quantum Computing  
+- [Quantum Computing: History, Principles, and Future Impact](https://medium.com/@noorfatimaafzalbutt/quantum-computing-history-principles-and-future-impact-00695c324b30?source=user_profile_page---------3-------------264d72ec03e6----------------------)  
+- [Quantum Hardware: A Comparative Review of Qubit Technologies](https://medium.com/@noorfatimaafzalbutt/quantum-hardware-a-comparative-review-of-qubit-technologies-9b59586b3600?source=user_profile_page---------0-------------264d72ec03e6----------------------)  
+
+---
+
 ### 🏆 Achievements & Honors
 
 - **Excellence in Neuroscience Research** — *KICS-UET Lahore* (Dec 2024)  
