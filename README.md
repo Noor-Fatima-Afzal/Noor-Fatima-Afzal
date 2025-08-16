@@ -12,6 +12,16 @@
 - 📝 I write articles on [Medium](https://medium.com/@noorfatimaafzalbutt)  
 - 📫 Reach me at **noorfatimaafzalbutt@gmail.com**
 
+
+---
+
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorfatimaafzal&show_icons=true&locale=en&layout=compact" alt="noorfatimaafzal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noorfatimaafzal&show_icons=true&locale=en" alt="noorfatimaafzal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noorfatimaafzal&" alt="noorfatimaafzal" /></p>
+
 ---
 
 ## 🛠️ Skills Overview
