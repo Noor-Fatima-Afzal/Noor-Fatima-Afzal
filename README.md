@@ -7,29 +7,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Artificial Intelligence, Quantum Machine Learning, and Neuroimaging Analysis**  
-- 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/NoorFatimaButt)  
-- 📝 I write articles on [Medium](https://medium.com/@noorfatimaafzalbutt)  
-- 📫 Reach me at **noorfatimaafzalbutt@gmail.com**
-
----
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorfatimaafzal&label=Profile%20views&color=0e75b6&style=flat" alt="noorfatimaafzal" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorfatimaafzal" alt="noorfatimaafzal" /></a> </p>
-
-## 🛠️ Skills Overview
-
-| Category | Skills |
-|----------|--------|
-| Programming & Frameworks | Python (primary), MATLAB, C (basic), TensorFlow, PyTorch, Keras, TorchQuantum, IBM Qiskit, PennyLane, NEURON |
-| Data Analysis & Machine Learning | Classification, Regression, Predictive Modeling, Neural Networks, Optimization, Regularization, Feature Extraction, Preprocessing, Model Evaluation, Model Compression, EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis, Predictive Analytics, Statistical Modeling |
-| Mathematics & Statistics | Linear Algebra, Probability, Statistics, Optimization Algorithms, Regularization Methods, Mathematical Modeling, Quantitative Analysis |
-| Domain-Specific Knowledge | Neuroimaging (EEG, fMRI, fNIRS), Signal Processing (EEG & Brain Rhythms), Neurodynamics Modeling, Brain Age Prediction, Quantum Mechanics (Superposition, Tunneling, Entanglement, Coherence), Wireless & 6G Systems (Quantum Networking), Neuroscience/Biophysics (Ion Channels) |
-| Research & Soft Skills | Scientific Writing, Technical Reports, Literature Review, Critical Analysis, Presentations, Collaboration, Time Management, Teamwork, Curiosity & Lifelong Learning |
-
-
----
-
 ### 📩 Connect with me
 <p align="left">
 <a href="https://twitter.com/noorfatimaafzal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
@@ -41,6 +18,14 @@
 <a href="https://leetcode.com/noorfatimaafzalbutt" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@noorfatimaafzal1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" /></a>
 </p>
+
+---
+
+- 🔭 I’m currently working on **Artificial Intelligence, Quantum Machine Learning, and Neuroimaging Analysis**  
+- 👨‍💻 All of my projects are available at [Linktree](https://linktr.ee/NoorFatimaButt)  
+- 📝 I write articles on [Medium](https://medium.com/@noorfatimaafzalbutt)  
+- 📫 Reach me at **noorfatimaafzalbutt@gmail.com**
+
 
 ---
 
@@ -73,6 +58,22 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 
 </p>
+
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorfatimaafzal&label=Profile%20views&color=0e75b6&style=flat" alt="noorfatimaafzal" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorfatimaafzal" alt="noorfatimaafzal" /></a> </p>
+
+## 🛠️ Skills Overview
+
+| Category | Skills |
+|----------|--------|
+| Programming & Frameworks | Python (primary), MATLAB, C (basic), TensorFlow, PyTorch, Keras, TorchQuantum, IBM Qiskit, PennyLane, NEURON |
+| Data Analysis & Machine Learning | Classification, Regression, Predictive Modeling, Neural Networks, Optimization, Regularization, Feature Extraction, Preprocessing, Model Evaluation, Model Compression, EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis, Predictive Analytics, Statistical Modeling |
+| Mathematics & Statistics | Linear Algebra, Probability, Statistics, Optimization Algorithms, Regularization Methods, Mathematical Modeling, Quantitative Analysis |
+| Domain-Specific Knowledge | Neuroimaging (EEG, fMRI, fNIRS), Signal Processing (EEG & Brain Rhythms), Neurodynamics Modeling, Brain Age Prediction, Quantum Mechanics (Superposition, Tunneling, Entanglement, Coherence), Wireless & 6G Systems (Quantum Networking), Neuroscience/Biophysics (Ion Channels) |
+| Research & Soft Skills | Scientific Writing, Technical Reports, Literature Review, Critical Analysis, Presentations, Collaboration, Time Management, Teamwork, Curiosity & Lifelong Learning |
+
 
 ---
 
