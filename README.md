@@ -16,57 +16,13 @@
 
 ## 🛠️ Skills Overview
 
-### 🧑‍💻 Programming & Frameworks
-| Category | Tools & Frameworks |
-|----------|---------------------|
-| Languages | Python (primary), MATLAB, C (basic) |
-| Deep Learning | TensorFlow, PyTorch, Keras |
-| Quantum ML | TorchQuantum, IBM Qiskit, PennyLane |
-| Simulation Tools | NEURON (computational neuroscience) |
-
----
-
-### 📊 Data Analysis & Machine Learning
-| Area | Skills |
-|------|--------|
-| Fundamentals | Classification, Regression, Predictive Modeling |
-| Deep Learning | Neural Networks, Optimization, Regularization |
-| Processing | Feature Extraction, Preprocessing, Model Evaluation |
-| Efficiency | Model Compression & AI efficiency |
-| Neuroimaging | EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis |
-| Analytics | Predictive Analytics, Statistical Modeling |
-
----
-
-### 📈 Mathematics & Statistics
-| Area | Skills |
-|------|--------|
-| Core | Linear Algebra, Probability, Statistics |
-| Methods | Optimization Algorithms, Regularization |
-| Applications | Mathematical Modeling, Quantitative Analysis |
-
----
-
-### 🧠 Domain-Specific Knowledge
-| Area | Focus |
-|------|-------|
-| Neuroimaging | EEG, fMRI, fNIRS |
-| Brain Research | Signal Processing, Brain Rhythms, Brain Age Prediction |
-| Neurodynamics | Modeling & Analysis |
-| Quantum Mechanics | Superposition, Tunneling, Entanglement, Coherence |
-| Communications | Wireless & 6G Systems (quantum-enhanced networking) |
-| Neuroscience | Biophysics, Ion Channels |
-
----
-
-### 📚 Research & Soft Skills
-| Area | Skills |
-|------|--------|
-| Writing | Scientific Writing, Technical Reports |
-| Research | Literature Review, Critical Analysis |
-| Communication | Presentations, Collaboration |
-| Professional | Time Management, Teamwork |
-| Personal | Curiosity & Lifelong Learning |
+| Category | Skills |
+|----------|--------|
+| 🧑‍💻 Programming & Frameworks | Python (primary), MATLAB, C (basic), TensorFlow, PyTorch, Keras, TorchQuantum, IBM Qiskit, PennyLane, NEURON |
+| 📊 Data Analysis & Machine Learning | Classification, Regression, Predictive Modeling, Neural Networks, Optimization, Regularization, Feature Extraction, Preprocessing, Model Evaluation, Model Compression, EEG/fMRI/fNIRS pipelines, Image Processing, Fractal & Singularity Analysis, Predictive Analytics, Statistical Modeling |
+| 📈 Mathematics & Statistics | Linear Algebra, Probability, Statistics, Optimization Algorithms, Regularization Methods, Mathematical Modeling, Quantitative Analysis |
+| 🧠 Domain-Specific Knowledge | Neuroimaging (EEG, fMRI, fNIRS), Signal Processing (EEG & Brain Rhythms), Neurodynamics Modeling, Brain Age Prediction, Quantum Mechanics (Superposition, Tunneling, Entanglement, Coherence), Wireless & 6G Systems (Quantum Networking), Neuroscience/Biophysics (Ion Channels) |
+| 📚 Research & Soft Skills | Scientific Writing, Technical Reports, Literature Review, Critical Analysis, Presentations, Collaboration, Time Management, Teamwork, Curiosity & Lifelong Learning |
 
 
 ---
