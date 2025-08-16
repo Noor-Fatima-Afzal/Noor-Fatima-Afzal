@@ -64,6 +64,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorfatimaafzal&label=Profile%20views&color=0e75b6&style=flat" alt="noorfatimaafzal" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorfatimaafzal" alt="noorfatimaafzal" /></a> </p>
 
+---
+
+### 🏆 Achievements & Honors
+
+- **Excellence in Neuroscience Research** — *KICS-UET Lahore* (Dec 2024)  
+  Conferred in recognition of exceptional contributions to pioneering neuroscience initiatives, demonstrating innovation, technical mastery, and impactful research outcomes.  
+
+- [**Chief Minister Punjab's Honhaar Scholarship**](https://drive.google.com/file/d/1Hx8GQ142BHn-6sZzVOO0eS5bSi1z8pv8/view?usp=sharing) — *Government of Punjab* (May 2025)  
+  Awarded for achieving one of the highest CGPAs in Computer Engineering at UET Lahore.  
+
+- [**Top 6 at Optimized AI Conference 2025**](https://drive.google.com/file/d/18J3eGM9kM_4GNvWO-J5rSz4QKabYNY4l/view?usp=sharing) — *Traversaal.ai* (Mar 2025)  
+  Team **TROJAN_AI** ranked in the **Top 6** among 200+ global teams at the *Building AI Agents Hackathon*, part of OAI 2025 (Atlanta), hosted on Hugging Face.  
+
+- [**CS50x Puzzle Day 2025**](https://certificates.cs50.io/1d592d6a-0bcd-4505-85ad-86ff400241ee.pdf?size=letter) — *Harvard & MIT (Cambridge)* (Apr 2025)  
+  Recognized for outstanding performance in problem-solving, teamwork, and analytical thinking during the global CS50x Puzzle Day challenge.  
+
+---
+
 ## 🛠️ Skills Overview
 
 | Category | Skills |
