@@ -4,7 +4,7 @@
 
 ### AI Engineer · Machine Learning Engineer · Neuroscience AI Researcher
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Production+ML+Systems;Healthcare+AI+%26+Neural+Decoding;LLM+Applications+%26+RAG+Pipelines;Peer-Reviewed+Research+%7C+Real-World+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Production+ML+Systems;Healthcare+AI+%26+Neural+Decoding;LLM+Applications+%26+RAG+Pipelines;Quantum+Computing+Explorer;Peer-Reviewed+Research+%7C+Real-World+Impact)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://noorfatima-rosy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-fatima-afzal/)
@@ -24,6 +24,8 @@ I'm an **AI and Machine Learning Engineer** focused on shipping production ML sy
 I've built and deployed pipelines used by clinicians and researchers, from EEG-based emotion and seizure models across **500+ subjects** to U-Net segmentation on **10K+ medical images**, plus a suite of LLM applications spanning RAG, vision-language OCR, and fine-tuned clinical assistants.
 
 My work is grounded in research credibility: **two peer-reviewed publications** accepted at *eNeuro* and *Brain-Apparatus Communication* on applied deep learning for brain-signal analysis, bringing rigor to engineering rather than the other way around.
+
+Currently expanding into **Quantum Computing** — exploring quantum algorithms and their intersections with machine learning.
 
 ---
 
@@ -46,6 +48,10 @@ My work is grounded in research credibility: **two peer-reviewed publications** 
 - Graph Neural Networks for **real-time seizure classification**: 90% detection on TUH EEG
 - Multi-task biometric and cognitive inference from raw EEG via **TriNet-MTL**
 - Published research in *eNeuro* and *Brain-Apparatus Communication*
+
+**Quantum Computing** *(Learning)*
+- Exploring quantum algorithms, quantum gates, and quantum circuit design
+- Investigating applications at the intersection of **quantum computing and machine learning (QML)**
 
 ---
 
@@ -144,11 +150,11 @@ Attention-based decoder combining temporal, spectral, and spatial EEG features a
 
 ## Publications
 
-**TriNet-MTL: A Multi-Branch Deep Learning Framework for Biometric Identification and Cognitive State Inference from Auditory-Evoked EEG**
+**[TriNet-MTL: A Multi-Branch Deep Learning Framework for Biometric Identification and Cognitive State Inference from Auditory-Evoked EEG](https://www.eneuro.org/content/13/2/ENEURO.0265-25.2025.abstract)**
 *eNeuro, 2026 · Noor Fatima, Ghulam Nabi*
 Multi-branch architecture solving biometric ID and cognitive-state inference simultaneously from raw EEG signals.
 
-**Multimodal EEG-based Classification of Alzheimer's and MCI using Olfactory Event-Related Potentials and Transformers**
+**[Multimodal EEG-based Classification of Alzheimer's and MCI using Olfactory Event-Related Potentials and Transformers](https://doi.org/10.1080/27706710.2025.2602997)**
 *Brain-Apparatus Communication, 2025 · Noor Fatima, Ghulam Nabi*
 Transformer-based pipeline for early Alzheimer's and MCI screening from multimodal EEG, applying modern sequence models to a high-impact clinical problem.
 
@@ -156,11 +162,7 @@ Transformer-based pipeline for early Alzheimer's and MCI screening from multimod
 
 ## Technology Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**ML & Deep Learning**
+### ML & Deep Learning
 
 | Area | Technologies |
 |---|---|
@@ -169,7 +171,7 @@ Transformer-based pipeline for early Alzheimer's and MCI screening from multimod
 | Fine-tuning | LoRA, QLoRA, PEFT, Multitask Learning |
 | Evaluation | MLflow, Weights & Biases, Hyperparameter Tuning |
 
-**LLM & RAG**
+### LLM & RAG
 
 | Area | Technologies |
 |---|---|
@@ -178,10 +180,7 @@ Transformer-based pipeline for early Alzheimer's and MCI screening from multimod
 | APIs | OpenAI, Groq, CLIP |
 | Models | Meditron, Domain-specific LLMs |
 
-</td>
-<td valign="top" width="50%">
-
-**Healthcare & Signal Processing**
+### Healthcare & Signal Processing
 
 | Area | Technologies |
 |---|---|
@@ -190,7 +189,7 @@ Transformer-based pipeline for early Alzheimer's and MCI screening from multimod
 | Audio | Librosa, STT/TTS pipelines |
 | Time Series | Anomaly Detection, Sensor Fusion |
 
-**Cloud, Deployment & Tools**
+### Cloud, Deployment & Tools
 
 | Area | Technologies |
 |---|---|
@@ -200,9 +199,12 @@ Transformer-based pipeline for early Alzheimer's and MCI screening from multimod
 | Databases | PostgreSQL, MySQL, FAISS |
 | Dev Tools | Git, Linux/Bash, React, TypeScript |
 
-</td>
-</tr>
-</table>
+### Quantum Computing *(Learning)*
+
+| Area | Technologies |
+|---|---|
+| Frameworks | Qiskit, PennyLane *(in progress)* |
+| Focus Areas | Quantum Algorithms, Quantum Gates, QML |
 
 ---
 
@@ -237,17 +239,27 @@ Recognized for problem-solving and analytical thinking.
 
 ## Certifications
 
-| Certification | Provider | Focus |
-|---|---|---|
-| Machine Learning Specialization | Coursera | ML Fundamentals and Algorithms |
-| Deep Learning Specialization | Coursera | Neural Networks and Architectures |
-| CS50x | Harvard | Problem-Solving and Computer Science |
+<div align="center">
+
+| | Certification | Provider | Verify |
+|:---:|---|---|:---:|
+| ![](https://img.shields.io/badge/-DeepLearning.AI-black?style=flat-square&logo=coursera&logoColor=white) | Supervised Machine Learning: Regression and Classification | DeepLearning.AI | [↗](https://www.coursera.org/account/accomplishments/verify/DE2S3NJCE2N0) |
+| ![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | Deep Learning with PyTorch: Image Segmentation | Coursera Project Network | [↗](https://coursera.org/verify/4K6A7Y3OXK11) |
+| ![](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white) | Introduction to Artificial Intelligence | Google | [↗](https://www.coursera.org/account/accomplishments/verify/ZZG2X8L7OZAL) |
+| ![](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Fundamentals of Machine Learning | Microsoft | [↗](https://drive.google.com/file/d/1XoRGOkP88iHgK8iovzQOgv3nvRCvydHM/view) |
+| ![](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white) | The Nuts and Bolts of Machine Learning | Google | [↗](https://www.coursera.org/account/accomplishments/verify/QLQIXJ6UIA65) |
+| ![](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white) | Crash Course on Python | Google | [↗](https://www.coursera.org/account/accomplishments/verify/WF1APQEKGL1E) |
+| ![](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL (Basic, Intermediate and Advanced) | HackerRank | — |
+| ![](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | AI Agents Fundamentals | Hugging Face | — |
+| ![](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) | Intro to Deep Learning | Kaggle | — |
+
+</div>
 
 ---
 
 ## Let's Connect
 
-I'm open to **AI/ML Engineer roles**, **freelance ML projects**, and **applied research collaborations**, especially in healthcare AI, neuroscience, and production LLM systems.
+I'm open to **AI/ML Engineer roles**, **freelance ML projects**, and **applied research collaborations**, especially in healthcare AI, neuroscience, production LLM systems, and quantum computing.
 
 <div align="center">
 
